@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+/.idea
+/*.iml
+/*.log
+/out
+/build
+#*#
+*~
+
